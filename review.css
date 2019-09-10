@@ -1,0 +1,29 @@
+.circle{
+	border-radius:50%;
+	height:250px;
+	width:250px;
+	}
+i.large{
+	font-size:100px;
+	cursor:pointer;
+}
+
+.verysad:hover{
+	color:#F4AA00;
+}
+
+.sad:hover{
+	color:#F4C800;
+}
+
+.happy1:hover{
+	color:#C5FA00;
+}
+
+.happy:hover{
+	color:#7DFA00;
+}
+
+i.neutral:hover{
+	color:#F6FA00;
+}
